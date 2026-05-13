@@ -1,5 +1,5 @@
 const animatedElements = document.querySelectorAll('.scene1, .scene2-bg, .scene2-text, .text');
-const CYCLE_MS = 19200;
+const CYCLE_MS = 19500;
 
 function restartCycle() {
     animatedElements.forEach(el => {
